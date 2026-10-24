@@ -1,0 +1,34 @@
+{
+  "version": 4,
+  "name": "yokoi.zip",
+  "items": [
+    "Yokoi.sh",
+    "yokoi"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Yokoi",
+    "porter": [
+      "RetroValou (emulator)",
+      "community port (PortMaster packaging)"
+    ],
+    "desc": "Game & Watch emulator: Sharp SM5A, SM510, SM511 and SM512 (Nintendo Game & Watch 1980-1991), plus Tronica and Elektronika handhelds. 79 games in the bundled ROM pack.",
+    "desc_md": null,
+    "inst": "Ready to run. The generated ROM pack (yokoi_pack_portmaster.ykp) is bundled with 79 games.",
+    "inst_md": null,
+    "genres": [
+      "emulator"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": [],
+    "store": [],
+    "availability": "full",
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ],
+    "min_glibc": "2.31"
+  }
+}

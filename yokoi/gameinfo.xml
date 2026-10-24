@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./Yokoi.sh</path>
+    <name>Yokoi</name>
+    <desc>Game &amp; Watch emulator (Sharp SM5A/SM510/SM511/SM512) with Tronica and Elektronika support. 79 games bundled.</desc>
+    <releasedate>20251021T000000</releasedate>
+    <developer>RetroValou</developer>
+    <publisher>Public Domain</publisher>
+    <genre>Emulator</genre>
+    <players>1</players>
+    <image>./screenshot.png</image>
+  </game>
+</gameList>

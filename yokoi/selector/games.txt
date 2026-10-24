@@ -1,0 +1,79 @@
+0	IM_53	Ataka asteroidov	1992-01-01	2
+1	IM_23	Autoslalom	1990-01-01	2
+2	AC_01	Ball	1980-04-28	0
+3	BF_803	Balloon Fight (Crystal Screen)	1986-11-19	0
+4	IM_19	Biathlon	1989-01-01	2
+5	BJ_60	Black Jack	1985-02-15	0
+6	BD_62	Bomb Sweeper	1987-06-15	0
+7	BX_301	Boxing	1984-07-31	0
+8	FP_24	Chef	1981-09-08	0
+9	IM_11	Circus (Elektronika)	1993-01-01	2
+10	CC_38V	Clever Chicken	1983-01-01	1
+11	DR_802	Climber (Crystal Screen)	1986-07-04	0
+12	UD_202	Crab Grab	1984-02-21	0
+13	DA_37	Diver's Adventure	1983-01-01	1
+14	DK_52	Donkey Kong	1982-06-03	0
+15	AK_302	Donkey Kong 3	1984-08-20	0
+16	HK_303	Donkey Kong Hockey	1984-11-13	0
+17	JR_55	Donkey Kong II	1983-03-07	0
+18	DJ_101	Donkey Kong Jr. (New Wide Screen)	1982-10-26	0
+19	CJ_93	Donkey Kong Jr. (Panorama Screen)	1983-10-07	0
+20	ID_29	Fire Attack	1982-03-26	0
+21	RC_04	Fire (Silver)	1980-07-31	0
+22	FR_27	Fire (Wide Screen)	1981-12-04	0
+23	FL_02	Flagman	1980-06-05	0
+24	MV_64	Gold Cliff	1988-10-19	0
+25	GH_54	Green House	1982-12-06	0
+26	CN_17	Helmet (version CN-17)	1981-02-21	0
+27	IM_10	Hockey (Elektronika)	1988-01-01	2
+28	IP_15	Judge (purple version)	1980-10-04	0
+29	IM_09	Kosmicheskiy most	1989-01-01	2
+30	IM_50	Kosmicheskiy polyot	1992-01-01	2
+31	IM_32	Kot-rybolov (Elektronika)	1989-01-01	2
+32	IM_33	Kvaka-zadavaka	1989-01-01	2
+33	TC_58	Life Boat	1983-10-25	0
+34	LN_08	Lion	1981-04-27	0
+35	MH_06	Manhole (Gold)	1981-01-27	0
+36	NH_103	Manhole (New Wide Screen)	1983-08-24	0
+37	MW_56	Mario Bros.	1983-03-14	0
+38	TB_94	Mario's Bombs Away	1983-11-10	0
+39	ML_102	Mario's Cement Factory (New Wide Screen)	1983-06-16	0
+40	CM_72	Mario's Cement Factory (Table Top, CM-72)	1983-04-28	0
+41	MB_108	Mario The Juggler	1991-10-14	0
+42	DM_53	Mickey & Donald	1982-11-12	0
+43	DC_95	Mickey Mouse (Panorama Screen)	1984-02-28	0
+44	MC_25	Mickey Mouse (Wide Screen)	1981-10-09	0
+45	IM_51	Morskaja ataka	1992-01-01	2
+46	IM_49	Nochnye vorishki	1993-01-01	2
+47	IM_02	Nu, pogodi!	1983-01-01	2
+48	OC_22	Octopus	1981-07-16	0
+49	OP_51	Oil Panic	1982-05-28	0
+50	IM_16	Okhota	1989-01-01	2
+51	PR_21	Parachute	1981-06-19	0
+52	PB_59	Pinball	1983-12-05	0
+53	PG_92	Popeye (Panorama Screen)	1983-08-30	0
+54	PP_23	Popeye (Wide Screen)	1981-08-05	0
+55	LP_57	Rain Shower	1983-08-10	0
+56	IM_13	Razvedchiki kosmosa	1989-01-01	2
+57	JB_63	Safe Buster	1988-01-06	0
+58	MG_8	Shuttle Voyage	1983-01-01	1
+59	SM_91	Snoopy (Panorama Screen)	1983-08-30	0
+60	SP_30	Snoopy Tennis	1982-04-28	0
+61	SA_12	Space Adventure	1982-01-01	1
+62	SM_11	Space Mission (Tronica)	1982-01-01	1
+63	MG_9	Space Rescue	1982-01-01	1
+64	SG_21	Spider (Tronica)	1982-01-01	1
+65	BU_201	Spitball Sparky	1984-02-07	0
+66	MG_61	Squish	1986-04-17	0
+67	SK_10	Super Goal Keeper	1983-01-01	1
+68	YM_801	Super Mario Bros. (Crystal Screen)	1986-06-25	0
+69	IM_03	Tayny okeana	1988-01-01	2
+70	TG_18	Thief in Garden	1983-01-01	1
+71	FR_23	Thunder Ball (Tronica)	1983-01-01	1
+72	TF_104	Tropical Fish	1985-07-08	0
+73	TL_28	Turtle Bridge	1982-02-01	0
+74	MT_03	Vermin	1980-06-10	0
+75	IM_22	Vesyolye futbolisty	1989-01-01	2
+76	IM_04	Vesyolyy povar	1989-01-01	2
+77	IM_12	Vinni-Pukh (Panorama Screen)	1990-01-01	2
+78	ZL_65	Zelda	1989-08-26	0
